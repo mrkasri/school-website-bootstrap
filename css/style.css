@@ -1,0 +1,19 @@
+#hero{
+    height: 100vh;
+    background: linear-gradient(rgba(9,4,30,0.5), rgba(9,4,30,0.2)), url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    transition: 0.4s;
+}
+
+.nav-link:hover{
+    color: skyblue;
+}
+
